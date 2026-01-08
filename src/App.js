@@ -133,7 +133,7 @@ const PROFILE = {
     phone: "+1 (979) 344-0748",
     github: "https://github.com/simantini07",
     linkedin: "https://linkedin.com/in/simantini-rembhotkar-299601239",
-    resume: "/resume.pdf",
+    resume: "/Simantini_Resume copy.pdf",
   },
   experience: [
     {
